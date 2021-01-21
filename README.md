@@ -82,7 +82,7 @@ If the RTSP Stream doesn’t identify the Delivery Box, the prior 20 sec frame i
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/lvhZhcscF74" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po1.png" 
-alt="Package AI - Test 1" width="75%" height="400"  /></a> 
+alt="Package AI - Test 1" width="75%"  /></a> 
 
 
  __Test - 2__
@@ -90,7 +90,7 @@ alt="Package AI - Test 1" width="75%" height="400"  /></a>
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/-t-ZHlzPdNs" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po2.png" 
-alt="Package AI - Test 2" width="75%" height="400"  /></a> 
+alt="Package AI - Test 2" width="75%" /></a> 
 
 
  __Test - 3__
@@ -98,7 +98,7 @@ alt="Package AI - Test 2" width="75%" height="400"  /></a>
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1pAiANJmDKY" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po3.png" 
-alt="Package AI - Test 3" width="75%" height="400"  /></a> 
+alt="Package AI - Test 3" width="75%" /></a> 
 
 
 __Test - 4__
@@ -106,7 +106,7 @@ __Test - 4__
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/hpNYHv-9KCM" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po4.png" 
-alt="Package AI - Test 4" width="75%" height="400"  /></a>
+alt="Package AI - Test 4" width="75%" /></a>
 
 
 ## Conclusion ##
