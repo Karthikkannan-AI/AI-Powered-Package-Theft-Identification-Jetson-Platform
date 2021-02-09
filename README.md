@@ -16,7 +16,7 @@
 
 ## Introduction ##
 
-Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft (package left on the door by the delivery personnel ). We have built a Proof of Concept of identifying the Package from the real-time CCTV stream when it arrives/ placed on the door side and intimates the house owner if the Package is taken away. (  __ALARM__ is triggered )
+Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft ( package left on the door by the delivery personnel ). We have built a Proof of Concept of identifying the Package from the real-time CCTV stream when it arrives/ placed on the door side and intimates the house owner if the Package is taken away. (  __ALARM__ is triggered )
 
 
 ## Problem ##
@@ -51,7 +51,7 @@ To arrive at the solution, we have to go through 5 major steps
 
 
 | Step Numbers | Procedures | Definitions |
-| :--------------: | :--------------: | :--------------: |
+| :--------------: | :--------------: | :-------------- |
 | Step 1   | Data Preparation | Collect thousands of Images of Delivery Boxes ( Different shapes, sizes, and background environments) to mimic the real-world situation. |
 | Step 2   | Data Annotation | As we have planned to do object detection, we have to annotate those images with Bounding Boxes. |
 | Step 3   | Training | The Images are Trained using NVIDIA TLT. |
