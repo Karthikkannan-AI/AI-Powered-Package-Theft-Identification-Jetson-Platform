@@ -120,8 +120,7 @@ We convert your AI Vision into a reality. Our Services are categorized into
 
 __Visit www.etopdigital.com for more information.__
 
-__Email : karthik@etopdigital.com
-          sales@etopdigital.com__
+__Email : karthik@etopdigital.com / sales@etopdigital.com__
           
 __Phone : 9944865029__
 
