@@ -1,4 +1,4 @@
-# Package-AI ( Using AI to prevent Package Theft ) #
+# AI powered Package Theft Identification  #
 
 ## Table of Contents ##
 
@@ -16,8 +16,8 @@
 
 ## Introduction ##
 
-Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft across America. 
-We have built a Proof of Concept of converting a CCTV camera in the door in to an AI Powered Camera using NVIDIA Jetson Platform to Identify the Package when it arrives/ placed on the door side and intimates the house owner, if the Package is taken away the __ALARM__ is triggered 
+Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft (package left on the door by the delivery personnel ). 
+We have built a Proof of Concept of identifying the Package from the real-time CCTV stream when it arrives/ placed on the door side and intimates the house owner if the Package is taken away. (  __ALARM__ is triggered )
 
 
 ## Problem ##
