@@ -48,7 +48,7 @@ In this particular demonstration we will focus on the package theft problem in U
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p3.jpg" width="70%">
 
 To arrive at the Solution, we have to go through 5 Major Steps
-| Steps | Procedures |
+| Steps                | Procedures |
 | -------------- | -------------- |
 | Step 1 | Data Preparation |
 | | Collect thousands of Images of Delivery Box ( Different shape, size and environment) to mimic the real. |
