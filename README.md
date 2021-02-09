@@ -48,25 +48,17 @@ In this particular demonstration we will focus on the package theft problem in U
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p3.jpg" width="70%">
 
 To arrive at the Solution, we have to go through 5 Major Steps
-
+| Steps | Procedures |
+| -------------- | -------------- |
 | Step 1 | Data Preparation |
-| -------------- | -------------- |
 | | Collect thousands of Images of Delivery Box ( Different shape, size and environment) to mimic the real. |
-| -------------- | -------------- |
 | Step 2 | Data Annotation |
-| -------------- | -------------- |
 | | As we have planned to do object detection, we have to annotate those images with Bounding Boxes. |
-| -------------- | -------------- |
 | Step 3 | Training |
-| -------------- | -------------- |
 | | The Images are Trained using NVIDIA TLT. |
-| -------------- | -------------- |
 | Step 4 | Evaluation |
-| -------------- | -------------- |
 | | The custom Deep Learning Model is Tested and Evaluated. If there are issues with the detection accuracy in specific conditions then we have to retrain the model by taking in to consideration those scenarios. |
-| -------------- | -------------- |
 | Step 5 | Deployment |
-| -------------- | -------------- |
 | | IP CCTV camera is connected to Nano through RTSP. 
 
 If the CCTV Feed identifies the Delivery Box, immediately through SMTP a mail is triggered to the House Owner. 
