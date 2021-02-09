@@ -6,7 +6,7 @@
 * [The Problem](https://github.com/Karthikkannan-AI/Package-AI#problem)
   * [Analysis of the Problem ](https://github.com/Karthikkannan-AI/Package-AI#analysis-of-the-problem)
   * [Package Thefts (Facts)](https://github.com/Karthikkannan-AI/Package-AI#package-thefts-facts)
-* [Solution](https://github.com/Karthikkannan-AI/Package-AI#solution)
+* [Solution](https://github.com/Karthikkannan-AI/Package-AI#proposed-solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/Package-AI#solution-workflow)
   * [Evaluation of the Solution](https://github.com/Karthikkannan-AI/Package-AI#evaluation-of-the-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Package-AI#conclusion)
@@ -41,7 +41,7 @@ In this particular demonstration we will focus on the package theft problem in U
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p2.png" width="70%">
 
 
-## Solution ##
+## Proposed Solution ##
 
 ### Solution Workflow ###
 
@@ -49,9 +49,9 @@ In this particular demonstration we will focus on the package theft problem in U
 
 To arrive at the Solution, we have to go through 5 Major Steps
 
-__Step 1 : Data Preparation__
+| Step 1 | Data Preparation |
 
-Collect thousands of Images of Delivery Box ( Different shape, size and environment) to mimic the real.
+| | Collect thousands of Images of Delivery Box ( Different shape, size and environment) to mimic the real. |
 
 __Step 2 : Data Annotation__
 
