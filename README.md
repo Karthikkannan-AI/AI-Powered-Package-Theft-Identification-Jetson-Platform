@@ -51,7 +51,7 @@ To arrive at the solution, we have to go through 5 major steps
 
 
 | Step Numbers | Procedures | Definitions |
-| :--------------: | :--------------: | :-------------- |
+| :-------------- | :-------------- | :-------------- |
 | Step 1   | Data Preparation | Collect thousands of Images of Delivery Boxes ( Different shapes, sizes, and background environments) to mimic the real-world situation. |
 | Step 2   | Data Annotation | As we have planned to do object detection, we have to annotate those images with Bounding Boxes. |
 | Step 3   | Training | The Images are Trained using NVIDIA TLT. |
