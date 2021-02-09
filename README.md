@@ -125,5 +125,4 @@ __Email : karthik@etopdigital.com
           
 __Phone : 9944865029__
 
-<br><br>
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/About%20ETOP%20Technologies_Github.png">
