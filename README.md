@@ -1,4 +1,4 @@
-# AI powered Package Theft Identification (Jetson Platform) #
+# AI powered Package Theft Identification (Nvidia Jetson Platform) #
 
 ## Table of Contents ##
 
