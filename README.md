@@ -38,14 +38,14 @@ In this particular demonstration we will focus on the package theft problem in U
 
 ### Package Thefts (Facts) ###
 
-<img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p2.png" width="70%">
+<img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p2.png" width="100%">
 
 
 ## Proposed Solution ##
 
 ### Solution Workflow ###
 
-<img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p3.jpg" width="70%">
+<img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p3.jpg" width="100%">
 
 To arrive at the Solution, we have to go through 5 Major Steps
 
