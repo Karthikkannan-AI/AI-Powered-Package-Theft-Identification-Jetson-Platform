@@ -50,7 +50,7 @@ In this particular demonstration we will focus on the package theft problem in U
 To arrive at the Solution, we have to go through 5 Major Steps
 
 | Step 1 | Data Preparation |
-|                |                |
+| -------------- | -------------- |
 | | Collect thousands of Images of Delivery Box ( Different shape, size and environment) to mimic the real. |
 | -------------- | -------------- |
 | Step 2 | Data Annotation |
