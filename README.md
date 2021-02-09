@@ -95,8 +95,7 @@ alt="Package AI - Test 4" width="75%" /></a>
 
 ## Conclusion ##
 
-* We have built this as a Proof of Concept to showcase how we can build a custom deep learning Model to solve a Package theft problem using computer vision. 
-* We have provided the Model, which can be tested for its real world performance. 
+* We have built this as a Proof of Concept to showcase how we can built a custom deep learning Model to solve a Package theft problem using computer vision. 
 * We have considered only carton boxes of different shapes and size for Package, Further works are required to improve the detection accuracy with various other packages other than carton boxes 
 
 
