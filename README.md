@@ -47,16 +47,16 @@ In this particular demonstration we will focus on the package theft problem in U
 
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p3.jpg" width="100%">
 
-To arrive at the solution, we have to go through 5 major Steps
+To arrive at the solution, we have to go through 5 major steps
 
 
 | Step Numbers | Procedures | Definitions |
 | :--------------: | :--------------: | :--------------: |
-| Step 1   | Data Preparation | Collect thousands of Images of Delivery Box ( Different shape, size and environment) to mimic the real. |
+| Step 1   | Data Preparation | Collect thousands of Images of Delivery Boxes ( Different shapes, sizes, and background environments) to mimic the real-world situation. |
 | Step 2   | Data Annotation | As we have planned to do object detection, we have to annotate those images with Bounding Boxes. |
 | Step 3   | Training | The Images are Trained using NVIDIA TLT. |
-| Step 4   | Evaluation | The custom Deep Learning Model is Tested and Evaluated. If there are issues with the detection accuracy in specific conditions then we have to retrain the model by taking in to consideration those scenarios. |
-| Step 5   | Deployment | IP CCTV camera is connected to Nano through RTSP. If the CCTV Feed identifies the Delivery Box, immediately through SMTP a mail is triggered to the House Owner. If the RTSP Stream doesn’t identify the Delivery Box, the prior 20 sec frame is taken and converted in to a video and sent as email to the House Owner , so that we can know the theft event. |
+| Step 4   | Evaluation | The custom Deep Learning Model is Tested and Evaluated. If there are issues with the detection accuracy of delivery packages in specific conditions then we have to retrain the model by taking into consideration those scenarios. |
+| Step 5   | Deployment | IP CCTV camera is connected to NVIDIA Jetson Nano through RTSP. If the CCTV Feed identifies the Delivery Box, immediately through SMTP a mail is triggered to the House Owner. If the delivery package is taken away, the prior 20 sec frame is taken and converted in to a video and sent as an email to the House Owner , so that we can know the theft event. |
 
 
 ### Evaluation of the Solution ###
