@@ -47,7 +47,7 @@ In this particular demonstration we will focus on the package theft problem in U
 
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p3.jpg" width="100%">
 
-To arrive at the Solution, we have to go through 5 Major Steps
+To arrive at the solution, we have to go through 5 major Steps
 
 
 | Step Numbers | Procedures | Definitions |
