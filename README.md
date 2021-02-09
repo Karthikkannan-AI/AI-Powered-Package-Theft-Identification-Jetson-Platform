@@ -8,7 +8,7 @@
   * [Package Thefts (Facts)](https://github.com/Karthikkannan-AI/Package-AI#package-thefts-facts)
 * [Solution](https://github.com/Karthikkannan-AI/Package-AI#proposed-solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/Package-AI#solution-workflow)
-  * [Evaluation of the Solution](https://github.com/Karthikkannan-AI/Package-AI#evaluation-of-the-solution)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Package-AI#evaluation-of-the-proposed-solution)
 * [Conclusion](https://github.com/Karthikkannan-AI/Package-AI#conclusion)
 * [References](https://github.com/Karthikkannan-AI/Package-AI#references)
 * [Contact Us](https://github.com/Karthikkannan-AI/Package-AI#contact-us)
@@ -59,9 +59,9 @@ To arrive at the solution, we have to go through 5 major steps
 | Step 5   | Deployment | IP CCTV camera is connected to NVIDIA Jetson Nano through RTSP. If the CCTV Feed identifies the Delivery package, immediately through SMTP a mail is triggered to the House Owner. If the delivery package is taken away, the prior 20 sec frame is taken and converted in to a video and sent as an email to the House Owner , so that we can know the theft event. |
 
 
-### Evaluation of the Solution ###
+### Evaluation of the Proposed Solution ###
 
- __Test - 1__
+ __Package Detection Test - 1__
 
 
 
@@ -69,7 +69,7 @@ To arrive at the solution, we have to go through 5 major steps
 alt="Package AI - Test 1" width="75%"  /></a> 
 
 
- __Test - 2__
+  __Package Detection Test - 2__
 
 
 
@@ -77,7 +77,7 @@ alt="Package AI - Test 1" width="75%"  /></a>
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
- __Test - 3__
+  __Package Detection Test - 3__
 
 
 
@@ -85,7 +85,7 @@ alt="Package AI - Test 2" width="75%" /></a>
 alt="Package AI - Test 3" width="75%" /></a> 
 
 
-__Test - 4__
+ __Package Detection Test - 4__
 
 
 
