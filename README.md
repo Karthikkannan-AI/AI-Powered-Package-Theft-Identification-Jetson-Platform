@@ -16,23 +16,22 @@
 
 ## Introduction ##
 
-Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft (package left on the door by the delivery personnel ). 
-We have built a Proof of Concept of identifying the Package from the real-time CCTV stream when it arrives/ placed on the door side and intimates the house owner if the Package is taken away. (  __ALARM__ is triggered )
+Online shopping has reached an all-time high due to the coronavirus pandemic and there is a huge surge in Package Theft (package left on the door by the delivery personnel ). We have built a Proof of Concept of identifying the Package from the real-time CCTV stream when it arrives/ placed on the door side and intimates the house owner if the Package is taken away. (  __ALARM__ is triggered )
 
 
 ## Problem ##
 
-We will look how serious and widespread the Package theft Problem is in USA. 
-Around 1.7 million packages are stolen or go missing every day in USA, accounting to a lost revenue of $25 million per day or $9 billion per year
+In this particular demonstration we will focus on the package theft problem in USA. Around 1.7 million packages are stolen or go missing every day in USA, accounting to a lost revenue of $25 million per day or $9 billion per year.
+
+
+### Analysis of the Problem ###
+
 
 <p float-"left">
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p.png" width="49%">
 
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p0.png" width="50%">
 </p>
-
-
-### Analysis of the Problem ###
 
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p1.png" width="70%"/>
 
