@@ -33,7 +33,7 @@ In this particular demonstration we will focus on the package theft problem in U
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p0.png" width="50%">
 </p>
 
-<img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p1.png" width="70%"/>
+<img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/p1.png" width="100%"/>
 
 
 ### Package Thefts (Facts) ###
