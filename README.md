@@ -127,9 +127,14 @@ __Phone : 9944865029__
 <img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/About%20ETOP%20Technologies_Github.png">
 
 The COVID-19 pandemic has profoundly influenced the lives of most people on the planet.
+
 Like every business across the World, we too got impacted and affected by Coronavirus.
+
 We are navigating the business impact of Covid-19 through self-motivation and Innovation.
+
 This work is part of our journey towards Recovery and Reinvention.
+
 #EtopTechnologies #Artificialintelligence #DeepLearning #MachineLearning
+
 
 <img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Jetson-Platform/blob/main/resources/CoronaPandemic.jpeg?raw=true">
