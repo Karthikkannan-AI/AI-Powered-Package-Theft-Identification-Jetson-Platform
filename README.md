@@ -12,7 +12,7 @@
 * [Conclusion](https://github.com/Karthikkannan-AI/Package-AI#conclusion)
 * [References](https://github.com/Karthikkannan-AI/Package-AI#references)
 * [Contact Us](https://github.com/Karthikkannan-AI/Package-AI#contact-us)
-* [Rebounding from COVID-19]()
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Jetson-Platform/blob/main/README.md#rebounding-from-covid-19)
 
 
 ## Introduction ##
