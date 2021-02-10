@@ -65,7 +65,7 @@ To arrive at the solution, we have to go through 5 major steps
 
 
 
-<a href="https://youtu.be/pE62h71bIRI" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po1.png" 
+<a href="https://youtu.be/pE62h71bIRI" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Jetson-Platform/blob/main/resources/Package%20Detector%201.png?raw=true" 
 alt="Package AI - Test 1" width="75%"  /></a> 
 
 
@@ -73,7 +73,7 @@ alt="Package AI - Test 1" width="75%"  /></a>
 
 
 
-<a href="https://youtu.be/Oed2mnWp3wM" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po2.png" 
+<a href="https://youtu.be/Oed2mnWp3wM" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Jetson-Platform/blob/main/resources/Package%20Detector%202.png?raw=true" 
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
