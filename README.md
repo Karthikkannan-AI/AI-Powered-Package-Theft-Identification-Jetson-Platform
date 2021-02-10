@@ -65,7 +65,7 @@ To arrive at the solution, we have to go through 5 major steps
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/lvhZhcscF74" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po1.png" 
+<a href="https://youtu.be/pE62h71bIRI" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po1.png" 
 alt="Package AI - Test 1" width="75%"  /></a> 
 
 
@@ -73,24 +73,9 @@ alt="Package AI - Test 1" width="75%"  /></a>
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/-t-ZHlzPdNs" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po2.png" 
+<a href="https://youtu.be/Oed2mnWp3wM" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po2.png" 
 alt="Package AI - Test 2" width="75%" /></a> 
 
-
-  __Package Detection Test - 3__
-
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/1pAiANJmDKY" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po3.png" 
-alt="Package AI - Test 3" width="75%" /></a> 
-
-
- __Package Detection Test - 4__
-
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/hpNYHv-9KCM" target="_blank"><img src="https://github.com/Karthikkannan-AI/Package-AI/blob/main/resources/tns/po4.png" 
-alt="Package AI - Test 4" width="75%" /></a>
 
 
 ## Conclusion ##
