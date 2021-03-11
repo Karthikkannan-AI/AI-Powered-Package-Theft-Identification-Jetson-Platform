@@ -80,7 +80,7 @@ alt="Package AI - Test 1" width="75%"  /></a>
 
 
 
-<a href="https://youtu.be/QVwOMXDMWio" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Jetson-Platform/blob/main/resources/Package%20Detector%202.png?raw=true" 
+<a href="https://youtu.be/KgxF_chuxco" target="_blank"><img src="https://github.com/Karthikkannan-AI/AI-Powered-Package-Theft-Identification-Jetson-Platform/blob/main/resources/Package%20Detector%202.png?raw=true" 
 alt="Package AI - Test 2" width="75%" /></a> 
 
 
